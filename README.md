@@ -20,6 +20,8 @@ pip install docopt
 NOTE : You should use Python3
 
 ```python3 main.py```
+
+
 ```python3 main.py latex```
 
 * The outputs are in the folder "outputs". `geometry.json` can be dragged and dropped to visualise the TQC using the TQC viewer by opening `tqc_viewer/index.html`. `circuit.json` describes the ICM circuit.
